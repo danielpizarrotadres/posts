@@ -22,4 +22,4 @@
         - Process it
         - Output the results
         
-    - [ ] As the pioneers of computer science explored how to design a thinking machine, they realized that it had to perform four different tasks:
+        Now this might sound simple, but these four things are common to all computers. And that is what makes a computer a computer.
